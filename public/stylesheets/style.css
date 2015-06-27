@@ -1,8 +1,10 @@
 body {
-  padding: 50px;
+  padding: 30px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: #000000;
+  background-color: #232627;
   color: #dedede;
+  overflow: hidden;
+  background-image: url('/images/staring.jpg');
 }
 
 a {
@@ -12,12 +14,21 @@ a {
 .navbar-default{
   background-color: transparent;
   border-color: transparent;
-  margin-top: 35px;
   color: #efefef;
+}
+
+.navbar-brand{
+  font:20px;
 }
 
 .opening-template{
   text-align : center;
   margin-top : 80px;
   font : 40px;
+}
+
+.container{
+   
+   height: 600px;
+   repeat: no-repeat;
 }
