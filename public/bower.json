@@ -1,0 +1,19 @@
+{
+  "name": "myHome",
+  "version": "0.1.0",
+  "homepage": "https://github.com/minhyeok/myHome",
+  "description": "frontend",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "uikit": "~2.21.0",
+    "flat-ui": "~2.2.2"
+  }
+}
